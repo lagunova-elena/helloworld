@@ -1,0 +1,11 @@
+Ссылки на баги:
+
+- http://qa-lab.cloud-pro.ru:8080/browse/HAR-66
+
+- http://qa-lab.cloud-pro.ru:8080/browse/HAR-67
+
+- http://qa-lab.cloud-pro.ru:8080/browse/HAR-68
+
+- http://qa-lab.cloud-pro.ru:8080/browse/HAR-69
+
+- http://qa-lab.cloud-pro.ru:8080/browse/HAR-70
