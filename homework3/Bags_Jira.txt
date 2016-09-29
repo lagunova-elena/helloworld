@@ -1,0 +1,17 @@
+- http://qa-lab.cloud-pro.ru:8080/browse/CAL-101
+
+- http://qa-lab.cloud-pro.ru:8080/browse/CAL-102
+
+- http://qa-lab.cloud-pro.ru:8080/browse/CAL-103
+
+- http://qa-lab.cloud-pro.ru:8080/browse/CAL-104
+
+- http://qa-lab.cloud-pro.ru:8080/browse/CAL-105
+
+- http://qa-lab.cloud-pro.ru:8080/browse/CAL-106
+
+- http://qa-lab.cloud-pro.ru:8080/browse/CAL-107
+
+- http://qa-lab.cloud-pro.ru:8080/browse/CAL-108
+
+- http://qa-lab.cloud-pro.ru:8080/browse/CAL-109
